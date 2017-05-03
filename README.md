@@ -1,6 +1,6 @@
 # DrawableCopier with Python3
 
-###Forked from [Jesse DrawableCopier](https://github.com/jmhend/DrawableCopier)
+#### Forked from [Jesse DrawableCopier](https://github.com/jmhend/DrawableCopier)
 
 Python script for copying drawable resources into your Android project from an external `/res` directory. It will copy each `/res/drawable-*` resource to the destination directory's `/res/drawable-*` folder.
 
